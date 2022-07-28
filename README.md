@@ -22,10 +22,23 @@ DIEGO ALEXANDER ERAZO SILVA
 -  Describir las fallas en capacitores y la solución de problemas básicos de los capacitores.
 
 ## 2.	MARCO TEORICO
-### Capítulo 9
 
+### 2.1.1  TEOREMA DE SUPERPOSICIÓN 
 
-### Capitulo 10
+![Teorema de superposición](https://user-images.githubusercontent.com/84425276/126254040-bf458afa-ddcc-4a28-98ef-977d621c944f.png)
+
+### 2.1.2 TEOREMA DE THÉVENIN 
+
+![Teorema de Thévenin](https://user-images.githubusercontent.com/84425276/126254059-9b1cdacc-4041-45d3-be4b-64a9e7409e64.png)
+
+### 2.1.3 TEOREMA DE NORTON
+
+![Teorema de Norton](https://user-images.githubusercontent.com/84425276/126254087-1530d2c3-d17c-4aa2-9e5c-a0de95f41cb2.png)
+
+### 2.1.4 TEOREMA DE TRANSFERENCIA DE MÁXIMA POTENCIA
+
+![image](https://user-images.githubusercontent.com/84431598/126057886-6ea6e8fe-4867-48b9-9bf0-cd0720ab4ad1.png)
+
 
 ## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
 
